@@ -1,0 +1,16 @@
+{
+    "name": "tv-maze-php-api",
+    "type": "library",
+    "description": "Tugas_Akhir_ProjectXml",
+    "authors": [
+        {
+            "name": "Muhammad iqbal islam",
+            "email": "iqbalislam20151753@Gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vey\\": ""
+        }
+    }
+}
